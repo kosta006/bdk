@@ -2,5 +2,5 @@
   "name": "BDK Coin",
   "symbol": "BDK",
   "description": "created bdk coin",
-  "image": "TOKEN_IMAGE_URL"
+  "image": "https://raw.githubusercontent.com/kosta006/bdk/main/bdk.png"
 }
